@@ -2,9 +2,9 @@
 
 ## Network Graphs / Models
 
-![demo](img/topic_model.png)
+![demo](img/topic-model.png)
 
-##### **Note: The content of this topic model is COMPLETELY COINCIDENTAL--it just happened to be the first example of topic modeling network graphs that returned in a search ¯\_(ツ)_/¯**
+##### **Note: The content of this topic model is COMPLETELY COINCIDENTAL--it just happened to be the first example of topic modeling network graphs that returned in a search ¯\\_(ツ)_/¯**
 
 The app component would: 
 1. crawl each day's 'top headlines' from Burst's 27 sources in NewsApi.org's 'sources' endpoint 
@@ -16,7 +16,7 @@ The app component would:
 
 ## Proof of Concept Roadmap
 
-[Network Graph in d3](https://bl.ocks.org/mbostock/aba1a8d1a484f5c5f294eebd353842da) is a demo of a network graph with adjustable strength. 
+[Network Graph in d3](https://bl.ocks.org/mbostock/aba1a8d1a484f5c5f294eebd353842da): a demo of a network graph with adjustable strength. 
 
 [Simple interactive network graph](http://bl.ocks.org/jose187/4733747) 
 
