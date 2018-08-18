@@ -72,3 +72,4 @@ yarn-error.log*
 scraper
 .eslintrc
 .gitignore
+ted_talks_example
