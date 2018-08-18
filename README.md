@@ -1,4 +1,6 @@
-# MVP Concept Proposal
+# Data Visualization Proposal
+
+A 'topic model network graph' of all of the articles pulled from our 27 sources that will allow users to visualize their network of sources and how it fits into the larger ecosystem of news.
 
 ## Network Graphs / Models
 

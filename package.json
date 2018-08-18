@@ -1,0 +1,22 @@
+{
+  "name": "burst-news-network-graph",
+  "version": "1.0.0",
+  "description": "A 'topic model network graph' of all of the articles pulled from our 27 sources that will allow users to visualize their network of sources and how it fits into the larger ecosystem of news.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sehailey/burst-news-network-graph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sehailey/burst-news-network-graph/issues"
+  },
+  "homepage": "https://github.com/sehailey/burst-news-network-graph#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
