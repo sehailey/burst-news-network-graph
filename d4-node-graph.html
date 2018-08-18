@@ -1,35 +1,24 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<script src="http://d3js.org/d3.v2.min.js?2.9.3"></script>
-<style>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
 
-.link {
-  stroke: #aaa;
-}
+        <script src="http://d3js.org/d3.v2.min.js?2.9.3"></script>
+        <link rel="stylesheet" type="text/css" href="graph.css">
+    </head>
 
-.node text {
-stroke:#333;
-cursos:pointer;
-}
-
-.node circle{
-stroke:#fff;
-stroke-width:3px;
-fill:#555;
-}
-
-</style>
 <body>
 <script>
 
-var width = 960,
+const width = 960,
     height = 500
 
-var svg = d3.select("body").append("svg")
+const svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-var force = d3.layout.force()
+const force = d3.layout.force()
     .gravity(.05)
     .distance(100)
     .charge(-100)
@@ -41,13 +30,13 @@ d3.json("http://localhost:8080/graphFile.json", function(json) {
       .links(json.links)
       .start();
 
-  var link = svg.selectAll(".link")
+  const link = svg.selectAll(".link")
       .data(json.links)
     .enter().append("line")
       .attr("class", "link")
     .style("stroke-width", function(d) { return Math.sqrt(d.weight); });
 
-  var node = svg.selectAll(".node")
+  const node = svg.selectAll(".node")
       .data(json.nodes)
     .enter().append("g")
       .attr("class", "node")
