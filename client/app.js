@@ -1,12 +1,11 @@
 import React from 'react'
 
-import { Graph, Rect } from './components'
+import { Graph, Rect, StarContainer, Star, Text } from './components'
 
 const App = () => {
     return (
         <div>
             <Graph />
-            <Rect />
         </div>
     )
 }

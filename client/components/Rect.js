@@ -1,16 +1,16 @@
 import React, { Component } from 'react'
-import { render } from 'react-dom'
 import { Stage, Layer, Rect, Text } from 'react-konva'
 import Konva from 'konva'
 
-class ColoredRect extends React.Component {
+class ColoredRect extends Component {
     state = {
         color: 'green'
     }
-    handleClick = () => {
+    handleClick = evt => {
         this.setState({
             color: Konva.Util.getRandomColor()
         })
+        console.log(evt.target.value)
     }
     render() {
         return (
