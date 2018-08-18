@@ -2,7 +2,7 @@
 
 ## Network Graphs / Models
 
-![demo](/home/notnull/Boostnote/notes/images/FSA/topic_model_example.png)
+![demo](img/topic_model.png)
 
 ##### **Note: The content of this topic model is COMPLETELY COINCIDENTAL--it just happened to be the first example of topic modeling network graphs that returned in a search ¯\_(ツ)_/¯**
 
