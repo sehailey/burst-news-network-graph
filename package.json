@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/sehailey/burst-news-network-graph#readme",
   "dependencies": {
+    "babel-eslint": "^8.2.6",
     "eslint": "^5.4.0",
+    "eslint-config-fullstack": "^6.0.0",
+    "eslint-config-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.11.1",
     "http-server": "^0.11.1"
   }
 }

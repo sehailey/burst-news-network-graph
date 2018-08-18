@@ -9,18 +9,4 @@
         { "source": 2, "target": 1, "weight": 1 },
         { "source": 0, "target": 2, "weight": 3 }
     ]
-
-    /*
-    source -> target
-    each doc has multiple topics (with multiple weights)
-    so doc -> topic = manytomany and viceversa
-
-const articleId = 1
-const topicId = 1
-
-
-    // const link = {"source": 1, "target": 1, "weight": 0.35} 
-
-
-*/
 }
