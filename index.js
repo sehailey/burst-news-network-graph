@@ -1,4 +1,7 @@
 import React from 'react'
-import { render } from 'react-dom'
-import App from './App'
-render(<App />, document.getElementById('app'))
+import ReactDOM from 'react-dom'
+import App from './app'
+
+// establishes socket connection
+
+ReactDOM.render(<App />, document.getElementById('app'))
