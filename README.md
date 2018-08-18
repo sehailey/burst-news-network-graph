@@ -20,7 +20,7 @@ The app component would:
 
 [Simple interactive network graph](http://bl.ocks.org/jose187/4733747) 
 
-[Interactive Force Graph](https://github.com/uber/react-vis-force) [(demo)](https://uber.github.io/react-vis-force/?selectedKind=%3CInteractiveForceGraph%20%2F%3E&selectedStory=10%20nodes&full=0&down=1&left=1&panelRight=0&downPanel=kadirahq%2Fstorybook-addon-actions%2Factions-panel)
+[Interactive Force Graph demo](https://uber.github.io/react-vis-force/?selectedKind=%3CInteractiveForceGraph%20%2F%3E&selectedStory=10%20nodes&full=0&down=1&left=1&panelRight=0&downPanel=kadirahq%2Fstorybook-addon-actions%2Factions-panel)
 
 [How (conceptually) to use React with d3](https://d4.js.org/) (could use help with this step to make it go quickly)
 
