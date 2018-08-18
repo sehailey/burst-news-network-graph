@@ -1,11 +1,12 @@
 import React from 'react'
 
-import { Graph } from './components'
+import { Graph, Rect } from './components'
 
 const App = () => {
     return (
         <div>
             <Graph />
+            <Rect />
         </div>
     )
 }
