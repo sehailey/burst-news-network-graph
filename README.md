@@ -23,6 +23,8 @@ The app component would:
 
 [Interactive Force Graph demo](https://uber.github.io/react-vis-force/?selectedKind=%3CInteractiveForceGraph%20%2F%3E&selectedStory=10%20nodes&full=0&down=1&left=1&panelRight=0&downPanel=kadirahq%2Fstorybook-addon-actions%2Factions-panel)
 
+[(repo)](https://uber.github.io/react-vis-force/)
+
 [How (conceptually) to use React with d3](https://d4.js.org/) (could use help with this step to make it go quickly)
 
 [Google Topic Modeling Tool](https://code.google.com/archive/p/topic-modeling-tool/downloads)
