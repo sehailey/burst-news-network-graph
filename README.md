@@ -6,7 +6,7 @@ A 'topic model network graph' of all of the articles pulled from our 27 sources 
 
 ![demo](img/topic-model.png)
 
-##### **Note: The content of this topic model is COMPLETELY COINCIDENTAL--it just happened to be the first example of topic modeling network graphs that returned in a search ¯\\_(ツ)_/¯**
+##### **Note: The content of this topic model is COMPLETELY COINCIDENTAL--it just happened to be the [first example](file:///home/notnull/Boostnote/notes/images/FSA/Chen_Sheble_Eichler_VAHC2013.pdf) of topic modeling network graphs that returned in a search ¯\\_(ツ)_/¯**
 
 The app component would:
 
