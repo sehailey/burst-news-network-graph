@@ -41,6 +41,7 @@
         "connect-session-sequelize": "^4.1.0",
         "d3": "^5.5.0",
         "d3-force": "^1.1.0",
+        "d3-quadtree": "^1.0.3",
         "express": "^4.16.3",
         "express-session": "^1.15.1",
         "history": "^4.6.3",

@@ -4,6 +4,20 @@ import nodes from './nodes.json'
 
 const data = { links, nodes }
 console.log(data)
+
+const getColor = n => {
+    const color =
+        '#' + ((n * 1234567) % Math.pow(2, 24)).toString(16).padStart(6, '0')
+    return color
+}
+
+const onNodeHover = (node, prevNode) => {
+    console.log('HOVER: ', 'node:', node, 'prevNode: ', prevNode)
+}
+
+const onNodeClick = node => {
+    console.log('CLICK:', 'node:', node)
+}
 import { ForceGraph2D } from 'react-force-graph'
 
 const Graph = () => {
@@ -11,26 +25,11 @@ const Graph = () => {
         <div>
             <ForceGraph2D
                 graphData={data}
-                nodeColor="blue"
-                nodeCanvasObject={(node, ctx, globalScale) => {
-                    const label = 'yat'
-                    const fontSize = 12 / globalScale
-                    ctx.font = `${fontSize}px Sans-Serif`
-                    const textWidth = ctx.measureText(label).width
-                    const bckgDimensions = [textWidth, fontSize].map(
-                        n => n + fontSize * 0.2
-                    ) // some padding
-                    ctx.fillStyle = 'rgba(255, 255, 255, 0.8)'
-                    ctx.fillRect(
-                        node.x - bckgDimensions[0] / 2,
-                        node.y - bckgDimensions[1] / 2,
-                        ...bckgDimensions
-                    )
-                    ctx.textAlign = 'center'
-                    ctx.textBaseline = 'middle'
-                    ctx.fillStyle = 'black'
-                    ctx.fillText(label, node.x, node.y)
-                }}
+                nodeLabel="HAIII"
+                nodeAutoColorBy={node => getColor(+node.index)}
+                onNodeHover={onNodeHover}
+                onNodeClick={onNodeClick}
+                d3Force
             />
         </div>
     )
