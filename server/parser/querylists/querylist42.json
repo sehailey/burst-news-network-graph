@@ -1,0 +1,245 @@
+{
+  "status": "ok",
+  "totalResults": 841,
+  "articles": [
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": "Matt Swider",
+      "title": "Back to School 2018 sales: the best deals for tech supplies",
+      "description": "New Back to School sales updated multiple times a day",
+      "url": "https://www.techradar.com/news/back-to-school-2018",
+      "urlToImage":
+        "https://cdn.mos.cms.futurecdn.net/gL5UPFKUBR3FXury7LWWYX-1200-80.jpg",
+      "publishedAt": "2018-08-02T16:40:45Z"
+    },
+    {
+      "source": { "id": "buzzfeed", "name": "Buzzfeed" },
+      "author": "Crest Canada",
+      "title":
+        "Seriously, You Guys, Here’s Why You Need To Start Taking Care Of Your Gums",
+      "description":
+        "Did you know there are billions (yes, billions) of bacteria in your mouth? Neutralize the bacteria even below your gum line with NEW Crest Gum Detoxify.",
+      "url":
+        "https://www.buzzfeed.com/crestcanada/seriously-you-guys-heres-why-you-need-to-start-taking-care-1",
+      "urlToImage":
+        "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/2/11/campaign_images/buzzfeed-prod-web-04/seriously-you-guys-heres-why-you-need-to-start-ta-2-20200-1533224447-0_dblbig.jpg",
+      "publishedAt": "2018-08-02T15:40:51Z"
+    },
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": "Joe Osborne",
+      "title": "Microsoft Surface Go review",
+      "description": "The ultimate 10-inch tasker’s tablet",
+      "url": "https://www.techradar.com/reviews/microsoft-surface-go",
+      "urlToImage":
+        "https://cdn.mos.cms.futurecdn.net/hTyh5qLY3DSWpx6Lpyo8RT-1200-80.jpg",
+      "publishedAt": "2018-08-02T13:00:00Z"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Eric KarabellESPN Senior Writer ",
+      "title": "Eric Karabell's 'Do Not Draft' list for fantasy football",
+      "description":
+        "It's easy to draft big-name football players too high in drafts. Eric Karabell provides his list of players you're better off avoiding altogether based on where they're going to be drafted.",
+      "url":
+        "http://espn.go.com/fantasy/football/insider/story/_/id/24257986/fantasy-football-eric-karabell-do-not-draft-list-players-being-overvalued",
+      "urlToImage":
+        "http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0802%2Fr408821_2_1296x729_16%2D9.jpg",
+      "publishedAt": "2018-08-01T21:35:54Z"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "David Morgan",
+      "title": "Deadly wildfire burns Northern California",
+      "description":
+        "At least nine people have been killed and hundreds of buildings destroyed, as wildfires burning across the state stretch fire crews to the limit",
+      "url":
+        "https://www.cbsnews.com/pictures/deadly-wildfire-burns-northern-california-carr-fire/",
+      "urlToImage":
+        "https://cbsnews2.cbsistatic.com/hub/i/r/2018/08/09/4d850788-cf55-4b9a-970e-98f7e87f8ce9/thumbnail/1200x630/4553970cbd05a6d4cb725ccb00a996bf/california-wildfire-ap-18220312355616.jpg",
+      "publishedAt": "2018-07-29T16:31:34+00:00"
+    },
+    {
+      "source": { "id": "the-telegraph", "name": "The Telegraph" },
+      "author": null,
+      "title": "How this British watch start-up took the world by storm",
+      "description":
+        "Founder of watch brand Larsson & Jennings talks marketing, competition and growing pains as he takes on the Kia Business Coaching challenge.",
+      "url":
+        "http://www.telegraph.co.uk/business/advice-for-smes/larsson-and-jennings/",
+      "urlToImage":
+        "https://www.telegraph.co.uk/content/dam/business/spark/kia-fleet/Larsson-and-Jennings-hp-xlarge.jpg",
+      "publishedAt": "2018-07-05T09:30:00Z"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": null,
+      "title": "A World-Class IB Education",
+      "description": "50 years of education for a better world",
+      "url": "http://www.newsweek.com/insights/world-class-ib-education-2018",
+      "urlToImage": null,
+      "publishedAt": "2018-07-04T14:37:58.3954266Z"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Michael Benson",
+      "title":
+        "Belgium 4-1 Costa Rica: Lukaku stars in Red Devils' final pre-World Cup win, but Eden Hazard limps off",
+      "description":
+        "Romelu Lukaku starred for Belgium with two goals and an assist as the Red Devils ran out 4-1 winners in their final pre-World Cup friendly against Costa Rica on Monday night. The main worrying moment of the night for England's Group G opponents came when Eden…",
+      "url":
+        "http://talksport.com/football/belgium-4-1-costa-rica-lukaku-stars-red-devils-final-pre-world-cup-win-eden-hazard-limps",
+      "urlToImage":
+        "https://talksport.com/sites/default/files/field/image/201806/hazard.jpg",
+      "publishedAt": "2018-06-11T20:35:00Z"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title": "CONFIRMED: Graham Potter appointed new Swansea City manager",
+      "description":
+        "Swansea City have confirmed the appointment of Graham Potter as their new manager. The 43-year-old has signed a three-year contract with the Welsh club, who suffered relegation from the Premier League this season. Potter, who succeeds Carlos Carvalhal,  joins…",
+      "url":
+        "http://talksport.com/football/confirmed-graham-potter-appointed-new-swansea-city-manager-180611285917",
+      "urlToImage":
+        "https://talksport.com/sites/default/files/field/image/201806/potter.jpg",
+      "publishedAt": "2018-06-11T14:08:00Z"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title":
+        "DONE DEAL: Patrick Vieira appointed Nice manager after leaving New York City FC",
+      "description":
+        "Arsenal legend Patrick Vieira has been confirmed as the new manager of Ligue 1 club Nice. Vieira has taken up his first managerial role in European football after leaving Major League Soccer side New York City FC. The 41-year-old had been linked with replacin…",
+      "url":
+        "http://talksport.com/football/done-deal-patrick-vieira-appointed-nice-manager-after-leaving-new-york-city-fc-180611285904",
+      "urlToImage":
+        "https://talksport.com/sites/default/files/field/image/201806/vieira2.jpg",
+      "publishedAt": "2018-06-11T13:03:00Z"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title":
+        "Soccer Aid 2018: Best moments and pictures from England XI v World XI charity match at Old Trafford",
+      "description":
+        "Eric Cantona returned to the Theatre of Dreams, Usain Bolt was named Man-of-the-Match and England actually won a penalty shoot-out in Sunday night’s thrilling Soccer Aid match at Old Trafford. Over £5.5million was raised for Unicef, as their biggest crowd yet…",
+      "url":
+        "http://talksport.com/football/soccer-aid-2018-best-moments-and-pictures-england-xi-v-world-xi-charity-match-old-trafford",
+      "urlToImage":
+        "https://talksport.com/sites/default/files/field/image/201806/socceraid1.jpg",
+      "publishedAt": "2018-06-11T11:43:00Z"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title":
+        "Leeds United next manager odds: Claudio Ranieri and Marcelo Bielsa favourites ahead of Sam Allardyce and Mick McCarthy",
+      "description":
+        "Leeds United are still searching for a new manager. Paul Heckingbottom was dismissed from his role at Elland Road last month, but the Whites have still not appointed his successor. Talks have been held with Marcelo Bielsa, the former Argentina coach, while St…",
+      "url":
+        "http://talksport.com/football/leeds-united-next-manager-odds-ranieri-bielsa-favourites-allardyce-bruce-mccarthy",
+      "urlToImage":
+        "https://talksport.com/sites/default/files/field/image/201806/pjimage_1.jpg",
+      "publishedAt": "2018-06-11T10:04:00Z"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title":
+        "Tony Bellew opens door to Tyson Fury fight after Gypsy King's winning comeback - 'Let's make it happen'",
+      "description":
+        "It appears a fight between Tyson Fury and Tony Bellew could be in the works after both boxers opened the door to the all-English clash. Fury made a winning return to boxing on Saturday night, although it failed to excite as his opponent Sefer Seferi retired a…",
+      "url":
+        "http://talksport.com/boxing/tony-bellew-opens-door-tyson-fury-fight-after-gypsy-kings-winning-comeback-lets-make-it",
+      "urlToImage":
+        "https://talksport.com/sites/default/files/field/image/201806/bellew.jpg",
+      "publishedAt": "2018-06-11T09:18:00Z"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title":
+        "Nabil Fekir had already chosen Liverpool shirt number before Anfield transfer collapsed",
+      "description":
+        "Nabil Fekir was so confident of completing a transfer to Liverpool he had already chosen his new shirt number. This is according to L’Equipe, who say the deal was so far along Liverpool had invited Fekir, the France attacker, to decide which number he would w…",
+      "url":
+        "http://talksport.com/football/nabil-fekir-had-already-chosen-liverpool-shirt-number-anfield-transfer-collapsed",
+      "urlToImage":
+        "https://talksport.com/sites/default/files/field/image/201806/gettyimages-881859712.jpg",
+      "publishedAt": "2018-06-11T07:49:00Z"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title":
+        "Manchester City manager Pep Guardiola hits back at Yaya Toure’s racism accusation",
+      "description":
+        "Pep Guardiola has hit back at Yaya Toure, calling accusations made by the midfielder that he is racist ‘a lie’. Toure is leaving Manchester City this summer when his contract expires, and he launched a tirade against his former manager last week, suggesting G…",
+      "url":
+        "http://talksport.com/football/manchester-city-manager-pep-guardiola-hits-back-yaya-toures-racism-accusation-180610285812",
+      "urlToImage":
+        "https://talksport.com/sites/default/files/field/image/201806/gettyimages-578062458.jpg",
+      "publishedAt": "2018-06-10T13:28:00Z"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title":
+        "Manchester United star Paul Pogba ‘can’t be trusted as a central midfielder’, says Graeme Souness",
+      "description":
+        "Graeme Souness has offered a valid criticism of Paul Pogba that explains why the Manchester United midfielder is not a top class player. Pogba is preparing to represent France at this summer’s World Cup, and though he seems a shoo-in to start for Les Bleus, f…",
+      "url":
+        "http://talksport.com/football/manchester-united-star-paul-pogba-cant-be-trusted-central-midfielder-says-graeme-souness",
+      "urlToImage":
+        "https://talksport.com/sites/default/files/field/image/201806/gettyimages-960179156.jpg",
+      "publishedAt": "2018-06-10T09:47:00Z"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title":
+        "Former world heavyweight champion Tyson Fury beats Sefer Seferi in comeback fight",
+      "description":
+        "Tyson Fury made a winning return to boxing on Saturday night, forcing Sefer Seferi to retire after four rounds of their heavyweight clash in Manchester. The 29-year-old former world champion was back in the ring for the first time since beating Wladimir Klits…",
+      "url":
+        "http://talksport.com/boxing/former-world-heavyweight-champion-tyson-fury-beats-sefer-seferi-comeback-fight-180609285781",
+      "urlToImage":
+        "https://talksport.com/sites/default/files/field/image/201806/gettyimages-970610370.jpg",
+      "publishedAt": "2018-06-09T22:14:00Z"
+    },
+    {
+      "source": { "id": "national-review", "name": "National Review" },
+      "author": "Jerry Hendrix",
+      "title": "Space: The New Strategic Heartland",
+      "description": "It’s time for a U.S. Space Force.",
+      "url":
+        "https://www.nationalreview.com/2018/06/united-states-needs-space-force-national-security-interest/",
+      "urlToImage":
+        "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/06/earth-iss-orbit.jpg?fit=1200%2C700&ssl=1",
+      "publishedAt": "2018-06-08T06:30:06Z"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": null,
+      "title": "Magazine | Fortune",
+      "description": "Read the latest stories about Magazine on Fortune",
+      "url": "http://fortune.com/magazine/",
+      "urlToImage": "/img/misc/og-default.png",
+      "publishedAt": "2018-05-24T20:38:07.6906275Z"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": null,
+      "title": "Actress: \"Eating This Every Morning Changed My Life\"",
+      "description": null,
+      "url": "http://activatedyou.com/cmd.php?ad=884266",
+      "urlToImage": null,
+      "publishedAt": "2018-04-23T21:31:29.1425424Z"
+    }
+  ]
+}

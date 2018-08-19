@@ -1,0 +1,248 @@
+{
+  "status": "ok",
+  "totalResults": 841,
+  "articles": [
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "Benjamin Weinthal",
+      "title":
+        "Merkel party’s think tank compares Israel’s separation wall to Berlin Wall",
+      "description":
+        "The Konrad-Adenauer-Foundation “fails to distinguish between justified and non-justified walls,” Dr. Efraim Zuroff told The Jerusalem Post.",
+      "url":
+        "https://www.jpost.com/Diaspora/Merkel-partys-think-tank-compares-Israels-separation-wall-to-Berlin-Wall-564767",
+      "urlToImage":
+        "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/428839",
+      "publishedAt": "2018-08-13T23:51:00Z"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Graham Rapier",
+      "title":
+        "Robinhood shuts customers out of buying shares of MoviePass' parent company after the stock crashed more than 99.99% (HMNY)",
+      "description":
+        "Robinhood shuts customers out of buying shares of MoviePass' parent company after the stock crashed more than 99.99% (HMNY)",
+      "url":
+        "https://markets.businessinsider.com/news/stocks/moviepass-owner-hmny-stock-price-robinhood-halting-new-share-purchases-2018-8-1027454830",
+      "urlToImage":
+        "https://static5.businessinsider.com/image/5b71e570959f34fd0a8b4f5b-1800/moviepass-6.jpg",
+      "publishedAt": "2018-08-13T22:24:06Z"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "Michael Wilner",
+      "title": "Trump signs defense bill into law codifying Obama-era aid",
+      "description":
+        "The bill includes $500 million in anti-missile defense aid and $50 million in anti-tunnel assistance.",
+      "url":
+        "https://www.jpost.com/Israel-News/Trump-signs-defense-bill-into-law-codifying-Obama-era-aid-564760",
+      "urlToImage":
+        "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/392545",
+      "publishedAt": "2018-08-13T22:11:00Z"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "Herb Keinon",
+      "title": "Netanyahu condemns Corbyn's homage to Munich Massacre",
+      "description":
+        "“The laying of a wreath by Jeremy Corbyn on the graves of the terrorists who carried out the Munich massacre and the comparison he made between Israel and Nazis deserves unequivocal condemnation.\"",
+      "url":
+        "https://www.jpost.com/Israel-News/Netanyahu-condemns-Corbyns-homage-to-Munich-Massacre-564755",
+      "urlToImage":
+        "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/426615",
+      "publishedAt": "2018-08-13T21:57:00Z"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "Herb Keinon",
+      "title": "Beinart questioned over political activities at airport",
+      "description":
+        "Beinart said that a security asked about his political involvement, such as whether he was involved in any organization that could provoke violence in Israel, or that threatened Israeli democracy.",
+      "url":
+        "https://www.jpost.com/Israel-News/Beinart-questioned-over-political-activities-at-airport-564754",
+      "urlToImage":
+        "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_Control/197289",
+      "publishedAt": "2018-08-13T21:47:00Z"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "Yonah Jeremy Bob",
+      "title":
+        "Former Yisrael Beytenu minister to get early release from prison",
+      "description":
+        "As a result of the Monday ruling, Meseznikov will be released on September 9, after having served two-thirds of his prison sentence.",
+      "url":
+        "https://www.jpost.com/Israel-News/Former-Yisrael-Beytenu-minister-to-get-early-release-from-prison-564753",
+      "urlToImage":
+        "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/396228",
+      "publishedAt": "2018-08-13T21:36:00Z"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "Jake Tapper thanks McCain after Trump didn't - CNN Video",
+      "description":
+        "President Trump did not acknowledge Sen. John McCain (R-AZ) during a speech before signing the John S. McCain National Defense Authorization Act.",
+      "url":
+        "http://us.cnn.com/videos/politics/2018/08/13/trump-john-mccain-jake-tapper-thank-you-lead-vpx.cnn",
+      "urlToImage":
+        "https://cdn.cnn.com/cnnnext/dam/assets/180813163626-trump-john-mccain-jake-tapper-thank-you-lead-vpx-00000000-super-tease.jpg",
+      "publishedAt": "2018-08-13T21:22:36.003735Z"
+    },
+    {
+      "source": { "id": "hacker-news", "name": "Hacker News" },
+      "author": "ACCU Members, ACCU",
+      "title": "Cache-Line Aware Data Structures",
+      "description": null,
+      "url": "https://accu.org/index.php/journals/2535",
+      "urlToImage": null,
+      "publishedAt": "2018-08-13T21:22:11.3811225Z"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Lydia Wheeler",
+      "title": "Prosecutors rest their case against Manafort",
+      "description":
+        "Prosecutors in the criminal case against former Trump campaign chairman Paul Manafort rested their case on Monday,",
+      "url":
+        "http://thehill.com/regulation/401646-prosecutors-rest-their-case-against-manafort",
+      "urlToImage":
+        "http://thehill.com/sites/default/files/manafortmuellersplit_073018.jpg",
+      "publishedAt": "2018-08-13T21:20:34Z"
+    },
+    {
+      "source": { "id": "nfl-news", "name": "NFL News" },
+      "author": "Austin Knoblauch",
+      "title": "A.J. Johnson, acquitted in rape case, joins Broncos",
+      "description":
+        "A.J. Johnson, a former University of Tennessee standout who was acquitted of aggravated rape charges last month, was signed by the Denver Broncos on Monday.",
+      "url":
+        "http://www.nfl.com/news/story/0ap3000000947653/article/aj-johnson-acquitted-in-rape-case-joins-broncos",
+      "urlToImage":
+        "http://static.nfl.com/static/content/public/photo/2018/08/13/0ap3000000947654_thumbnail_200_150.jpg",
+      "publishedAt": "2018-08-13T21:20:00Z"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "JUSTIN PRITCHARD and REESE DUNKLIN",
+      "title": "Under new law, military kids get sex assault protections",
+      "description":
+        "The Defense Department must improve the way it responds to child-on-child sexual assault at military bases in the U.S. and abroad as part of a sweeping new law President Donald Trump signed Monday. While the Pentagon began addressing sexual assault in the ran…",
+      "url": "https://apnews.com/622584f90f954650a4affb96e8a2daa9",
+      "urlToImage": "",
+      "publishedAt": "2018-08-13T21:16:44Z"
+    },
+    {
+      "source": { "id": "buzzfeed", "name": "Buzzfeed" },
+      "author": "Erin Chack",
+      "title": "18 \"Dogs\" That I'm Pretty Sure Are Just People In Dogs Suits",
+      "description": "No offense but these aren't dogs.",
+      "url": "https://www.buzzfeed.com/erinchack/humans-in-dog-suits",
+      "urlToImage":
+        "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/10/11/campaign_images/buzzfeed-prod-web-05/18-dogs-that-im-pretty-sure-are-just-people-in-do-2-16721-1533914745-1_dblbig.jpg",
+      "publishedAt": "2018-08-13T21:16:02Z"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Cameron Faulkner",
+      "title":
+        "Bose’s noise-canceling headphones and earbuds are $50 off at Amazon",
+      "description":
+        "Amazon is discounting some of the best noise-canceling headphones around, knocking $50 off the price of Bose’s QuietComfort 35 II and Bose QuietControl 30.",
+      "url":
+        "https://www.theverge.com/good-deals/2018/8/13/17685850/bose-quiet-comfort-35-ii-quiet-control-30-discount",
+      "urlToImage":
+        "https://cdn.vox-cdn.com/thumbor/kx9UfbXIe5NYyp-4M06Oo-5C0OM=/0x74:2040x1142/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/6689517/theverge7_2040.0.jpg",
+      "publishedAt": "2018-08-13T21:15:07Z"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Andrew Hay",
+      "title":
+        "Boy at New Mexico compound died in ritual ceremony: prosecutors",
+      "description":
+        "A young boy whose remains were discovered buried at a New Mexico desert compound died during a ritual ceremony to \"cast out demonic spirits,\" other children found at the remote homestead told investigators, a prosecutor said in court on Monday.",
+      "url":
+        "http://feeds.reuters.com/~r/reuters/topNews/~3/yNM8d4Ju_RE/boy-at-new-mexico-compound-died-in-ritual-ceremony-prosecutors-idUSKBN1KY10D",
+      "urlToImage":
+        "https://s2.reutersmedia.net/resources/r/?m=02&d=20180813&t=2&i=1293106282&w=1200&r=LYNXMPEE7C0NB",
+      "publishedAt": "2018-08-13T21:14:26Z"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Michelle Price",
+      "title":
+        "Tesla's slow disclosure raises governance, social media concerns",
+      "description":
+        "Tesla Inc’s handling of Chief Executive Elon Musk's proposal to take the carmaker private and its failure to promptly file a formal disclosure has raised governance concerns and sparked questions about how companies use social media.",
+      "url":
+        "http://feeds.reuters.com/~r/reuters/topNews/~3/2DlnxDaZBLU/teslas-slow-disclosure-raises-governance-social-media-concerns-idUSKBN1KY08C",
+      "urlToImage":
+        "https://s3.reutersmedia.net/resources/r/?m=02&d=20180813&t=2&i=1293017977&w=1200&r=LYNXMPEE7C06N",
+      "publishedAt": "2018-08-13T21:14:09Z"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Klint Finley",
+      "title": "Programming Languages May Finally Be Reaching a Status Quo",
+      "description":
+        "In new rankings from analyst firm RedMonk, Apple’s programming language Swift and Android favorite Kotlin saw their meteoric growth slightly slow down.",
+      "url": "https://www.wired.com/story/apple-swift-android-kotlin-rankings/",
+      "urlToImage":
+        "https://media.wired.com/photos/5b71f2334177c301e3b9b191/191:100/pass/programminglanguages-476368292.jpg",
+      "publishedAt": "2018-08-13T21:13:20Z"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title":
+        "Paul Manafort trial: Bank CEO who wanted to work for Trump administration ignored 'reg flags' about Manafort",
+      "description":
+        "A Chicago bank executive disregarded 'red flags' on Paul Manafort's application for $16 million in loans.",
+      "url":
+        "https://www.usatoday.com/story/news/politics/2018/08/13/paul-manafort-trial-bank-ceo-ignored-red-flags-loan-application/979854002/?utm_source=google&utm_medium=amp&utm_campaign=speakable",
+      "urlToImage":
+        "https://www.gannett-cdn.com/presto/2018/08/13/USAT/a0b5cd79-0ebf-427d-a7b1-d3e300d8cac7-AP_Trump_Russia_Probe_Manafort.JPG?crop=4964,2781,x0,y429&width=3200&height=1680&fit=bounds",
+      "publishedAt": "2018-08-13T21:13:11+00:00"
+    },
+    {
+      "source": { "id": "google-news-uk", "name": "Google News (UK)" },
+      "author": "Fiona Simpson",
+      "title":
+        "Harry Uzoka: Chilling moment killer cleans knife on his jeans after brutal murder of male model",
+      "description": "",
+      "url":
+        "https://www.standard.co.uk/news/crime/harry-uzoko-chilling-moment-killer-cleans-knife-on-his-jeans-after-brutal-murder-of-male-model-a3910636.html",
+      "urlToImage":
+        "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/08/13/22/uzoko1308a.jpg",
+      "publishedAt": "2018-08-13T21:12:00+00:00"
+    },
+    {
+      "source": { "id": "google-news-ca", "name": "Google News (Canada)" },
+      "author": "Dan Whitcomb",
+      "title":
+        "Crews make gains on major California wildfires as heat wave breaks",
+      "description":
+        "Some 110 major wildfires are burning across the western United States during an unusually active fire year",
+      "url":
+        "https://www.theglobeandmail.com/world/article-crews-make-gains-on-major-california-wildfires-as-heat-wave-breaks/",
+      "urlToImage":
+        "https://www.theglobeandmail.com/resizer/5jpOM6Nvek_XB2WbiJGKIa9o2_0=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/KZAKZAGJBFPOLH3SOZJJVT6GBE.jpg",
+      "publishedAt": "2018-08-13T21:11:48+00:00"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author":
+        "http://www.facebook.com/rachel.elise.weiner, https://www.facebook.com/wapolynh, https://www.facebook.com/TomJackmanWP/",
+      "title":
+        "Paul Manafort trial Day 10: Special counsel’s office calls its final witness in bank and fraud case",
+      "description":
+        "The prosecution is expected to wrap up its case in chief against former Trump campaign chair Paul Manafort.",
+      "url":
+        "https://www.washingtonpost.com/news/local/wp/2018/08/13/paul-manafort-trial-day-10-live-coverage/",
+      "urlToImage":
+        "https://www.washingtonpost.com/resizer/CAI-zEmedsCDHFJW2QMBQZxuWL0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VTQATADPOI4M3GBVAGMYAZ7XUY.jpg",
+      "publishedAt": "2018-08-13T21:11:15+00:00"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "status": "ok",
+  "totalResults": 841,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters Editorial",
+      "title":
+        "Trump aide Bolton met Turkey ambassador to discuss U.S. pastor: White House",
+      "description":
+        "White House national security adviser John Bolton met on Monday with Turkey's ambassador to the United States to discuss Turkey's detention of American pastor Andrew Brunson, the White House said.",
+      "url":
+        "http://feeds.reuters.com/~r/reuters/topNews/~3/3QnIU-533t4/trump-aide-bolton-met-turkey-ambassador-to-discuss-u-s-pastor-white-house-idUSKBN1KY278",
+      "urlToImage":
+        "https://s4.reutersmedia.net/resources/r/?m=02&d=20180813&t=2&i=1293272678&w=1200&r=LYNXMPEE7C1I8",
+      "publishedAt": "2018-08-13T21:09:10Z"
+    },
+    {
+      "source": { "id": "mirror", "name": "Mirror" },
+      "author": "Tricia Phillips",
+      "title": "Pensioners robbed of £46million by scammers in cruel phone con",
+      "description":
+        "Around 3,000 have been affected, with some even forced into bankruptcy by scammers",
+      "url":
+        "https://www.mirror.co.uk/news/uk-news/pensioners-robbed-46million-scammers-cruel-13077339",
+      "urlToImage":
+        "https://i2-prod.mirror.co.uk/incoming/article13077331.ece/ALTERNATES/s1200/1_PROD-Mature-businesswoman-working-on-desktop-at-night.jpg",
+      "publishedAt": "2018-08-13T21:08:34Z"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Mike Allen",
+      "title": "Axios PM",
+      "description":
+        "Mike Allen's afternoon take on the most important news of the day",
+      "url":
+        "https://www.axios.com/newsletters/axios-pm-17c88076-1902-445b-99ac-9eff904caa9b.html",
+      "urlToImage":
+        "https://images.axios.com/1YMUmftzcqQtVAEo3P7irBfz4x4=/1920x1080/smart/social/pm.png",
+      "publishedAt": "2018-08-13T21:07:54.3106137Z"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Betsy Klein, CNN",
+      "title": "Trump signs McCain defense measure, doesn't thank McCain",
+      "description":
+        "President Donald Trump thanked multiple members of Congress involved in passing the John S. McCain National Defense Authorization Act at a signing ceremony at Fort Drum, New York, Monday, with one major exception: the senator for whom the bill is named.",
+      "url":
+        "http://us.cnn.com/2018/08/13/politics/donald-trump-john-mccain-defense-spending/index.html",
+      "urlToImage":
+        "https://cdn.cnn.com/cnnnext/dam/assets/170729114655-mccain-trump-split-0729-super-tease.jpg",
+      "publishedAt": "2018-08-13T21:07:53.081431Z"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Bob Ortega, CNN Investigates",
+      "title": "Senators ask DHS to enforce immigrant detainee labor standards",
+      "description":
+        "Six US senators asked DHS's Kirstjen Nielsen to increase oversight after CNN reported allegations of coerced labor in for-profit ICE detention centers.",
+      "url":
+        "http://us.cnn.com/2018/08/13/us/senators-letter-dhs-ice-detention-work-program-invs/index.html",
+      "urlToImage":
+        "https://cdn.cnn.com/cnnnext/dam/assets/180628221808-kirsten-gillibrand-cuomo-prime-time-super-tease.jpg",
+      "publishedAt": "2018-08-13T21:07:48.365908Z"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title":
+        "Suspected Golden State Killer now faces 13 murder charges | CBC News",
+      "description":
+        "Prosecutors in California added another murder charge against a former police officer accused of killing 13 people throughout the 1970s and 80s.",
+      "url":
+        "http://www.cbc.ca/news/world/golden-state-killer-additional-murder-charge-1.4783682",
+      "urlToImage":
+        "https://i.cbc.ca/1.4636265.1524749580!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/99901770.jpg",
+      "publishedAt": "2018-08-13T21:07:46.5431603Z"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title":
+        "Ottawa deploys 200 troops to B.C. to help with wildfire fight | CBC News",
+      "description":
+        "British Columbia formally asked the federal government for assistance after more than 3,000 people were ordered to leave their homes in another destructive season of wildfires.",
+      "url":
+        "http://www.cbc.ca/news/canada/british-columbia/ottawa-deploys-200-troops-to-b-c-to-help-with-wildfire-fight-1.4783912",
+      "urlToImage":
+        "https://i.cbc.ca/1.4782706.1534106554!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chutanli-lake-fire.jpg",
+      "publishedAt": "2018-08-13T21:07:45.173847Z"
+    },
+    {
+      "source": { "id": "next-big-future", "name": "Next Big Future" },
+      "author": "brian wang",
+      "title": "europe",
+      "description": null,
+      "url": "https://www.nextbigfuture.com/tag/europe",
+      "urlToImage": null,
+      "publishedAt": "2018-08-13T21:07:32.8230011Z"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Kristin Romey",
+      "title": "The Grisly 'Origin Story' Behind the Perseid Meteor Shower",
+      "description":
+        "The celestial phenomenon was identified long before astronomers took note by devout Christians, who had their own fiery interpretation.",
+      "url":
+        "https://www.nationalgeographic.com/science/2018/08/news-perseid-meteor-lawrence-christianity.html",
+      "urlToImage":
+        "https://www.nationalgeographic.com/content/dam/science/2018/08/09/peasants-perseids-meteor/01-jesus-perseids.jpg",
+      "publishedAt": "2018-08-13T21:07:28.3266897Z"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Sarah Gibbens",
+      "title": "Humans Cause Over 95 Percent of California Wildfires",
+      "description":
+        "High crimes and celebrations are a few of the ways that residents have sparked a blaze.",
+      "url":
+        "https://www.nationalgeographic.com/environment/2018/08/news-california-wildfire-arson-human-cause.html",
+      "urlToImage":
+        "https://pmdvod.nationalgeographic.com/NG_Video/294/654/smpost_1508776622520.jpg",
+      "publishedAt": "2018-08-13T21:07:27.4658641Z"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Eric Niiler",
+      "title": "Why Gene Editing Is the Next Food Revolution",
+      "description":
+        "Crispr has the potential to boost yields, disease resistance, and taste, and even tackle allergens like gluten. It could radically change how we breed and grow crops—and scientists say they're working only with nature's tools.",
+      "url":
+        "https://www.nationalgeographic.com/environment/future-of-food/food-technology-gene-editing.html",
+      "urlToImage":
+        "https://www.nationalgeographic.com/content/dam/environment/photos/future_of_food/CRISPR_food_editing/01_crispr_food_editing_i8860_20180802_080.jpg",
+      "publishedAt": "2018-08-13T21:07:26.4288687Z"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Simon Worrall",
+      "title": "How Killer Whales Went from Hated, to Adored, to Endangered",
+      "description":
+        "The more we’ve learned about orcas, the more we love them. But can killer whales survive the dramatic changes to their world?",
+      "url":
+        "https://www.nationalgeographic.com/animals/2018/08/orcas-killer-whales-endangered-cetaceans-news.html",
+      "urlToImage":
+        "https://www.nationalgeographic.com/content/dam/animals/2018/08/booktalk-orca/01-og-booktalk-orca-nationalgeographic_1284896.jpg",
+      "publishedAt": "2018-08-13T21:07:21.275927Z"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Andrew Fazekas",
+      "title": "How to See the 2018 Perseid Meteor Shower",
+      "description":
+        "Anticipation is high for this year’s sky show, which peaks over a moonless weekend with projected rates of 90 to 120 meteors an hour.",
+      "url":
+        "https://www.nationalgeographic.com/science/2018/08/news-perseids-meteor-shower-august-skywatching-moon-space.html",
+      "urlToImage":
+        "https://www.nationalgeographic.com/content/dam/science/2018/08/10/perseidmeteorshower/01_perseid_meteor_shower_ap_974030424790.jpg",
+      "publishedAt": "2018-08-13T21:07:19.535258Z"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Nadia Drake",
+      "title": "NASA Sets Out to 'Touch the Sun'—Here's How",
+      "description":
+        "By boldly going where no spacecraft has gone before, the Parker Solar Probe will attempt to solve big mysteries about our nearest star.",
+      "url":
+        "https://www.nationalgeographic.com/science/2018/08/news-parker-solar-probe-launch-sun-nasa-space.html",
+      "urlToImage":
+        "https://www.nationalgeographic.com/content/dam/science/2018/08/10/sunskimmingprobe-infrontofsun.jpg",
+      "publishedAt": "2018-08-13T21:07:16.9257544Z"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Lori Cuthbert, Douglas Main",
+      "title":
+        "Orca Mother Drops Calf, After Unprecedented 17 Days of Mourning",
+      "description":
+        "A Pacific Northwest orca likely bonded closely with her calf before it died, which could help explain her record-breaking emotional sojourn.",
+      "url":
+        "https://www.nationalgeographic.com/animals/2018/08/orca-mourning-calf-killer-whale-northwest-news.html",
+      "urlToImage":
+        "https://www.nationalgeographic.com/content/dam/animals/2018/07/orca-mourning/01-og-orca-mourning-neonate_face_20180724mnw_sj1-101.jpg",
+      "publishedAt": "2018-08-13T21:07:16.1229849Z"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Sebastian Junger",
+      "title": "See How Soldiers Sleep in the Field",
+      "description":
+        "While embedded with U.S. troops in Afghanistan, photographer Tim Hetherington created images showing rare and precious moments of calm.",
+      "url":
+        "https://www.nationalgeographic.com/science/2018/08/how-soldiers-sleep-tim-hetherington-war-health.html",
+      "urlToImage":
+        "https://www.nationalgeographic.com/content/dam/science/2018/08/01/sleeping-soldiers/sleeping-soldiers-tim-hetherington-04.jpg",
+      "publishedAt": "2018-08-13T21:07:13.680643Z"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Michael Greshko",
+      "title": "Early Native Americans Imported Exotic Parrots, DNA Reveals",
+      "description":
+        "The discovery suggests that scarlet macaws were being bred for trade centuries earlier than previously thought.",
+      "url":
+        "https://www.nationalgeographic.com/science/2018/08/news-ancient-dna-chaco-canyon-pueblo-macaws-archaeology.html",
+      "urlToImage":
+        "https://www.nationalgeographic.com/content/dam/science/2018/08/13/macaw-excavation/08-macaw-nationalgeographic_1028471.jpg",
+      "publishedAt": "2018-08-13T21:07:11.8448823Z"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Lane Nieset",
+      "title": "How Scotland Is Bringing Back Its Lost Alcohol",
+      "description":
+        "With many Scotch distilleries closed or forgotten, whisky makers look to the past to rethink the country's heritage spirit.",
+      "url":
+        "https://www.nationalgeographic.com/travel/destinations/europe/united-kingdom/scotland/things-to-do-scotch-tasting.html",
+      "urlToImage":
+        "https://www.nationalgeographic.com/content/dam/travel/2018-digital/Scotch-scotland/scotch-distillery-scotland.jpg",
+      "publishedAt": "2018-08-13T21:07:11.0681365Z"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Brett Samuels",
+      "title": "Farragut West Metro station closed after reported bomb threat",
+      "description":
+        "Metro trains in the heart of downtown Washington, D.C., are bypassing Farragut West Station due to a \"police investigation,\" the Washington Metropolitan Area Transit Authority (WMATA) announced Monday.",
+      "url":
+        "http://thehill.com/policy/transportation/401639-farragut-west-metro-station-closed-after-reported-bomb-threat",
+      "urlToImage": "http://thehill.com/sites/default/files/metro_1.jpg",
+      "publishedAt": "2018-08-13T21:06:54Z"
+    },
+    {
+      "source": { "id": "google-news-au", "name": "Google News (Australia)" },
+      "author": "Shireen Khalil",
+      "title": "Donald Trump is a ‘gangster’",
+      "description":
+        "THERE was a tense exchange between guests on the Q&A panel last night after one of them, radical Christian philosopher Cornel West, invoked fascist leaders Adolf Hitler and Benito Mussolini to criticise current US president Donald Trump.",
+      "url":
+        "https://www.news.com.au/entertainment/tv/current-affairs/a-radical-christian-philosopher-has-called-president-donald-trump-a-gangster-during-abcs-qa/news-story/a5137886283b16e1723bd0bca976fd5e",
+      "urlToImage":
+        "https://cdn.newsapi.com.au/image/v1/f7a64cdc5fc86a40fbe91092a3932850?width=650",
+      "publishedAt": "2018-08-13T21:06:50+00:00"
+    }
+  ]
+}
