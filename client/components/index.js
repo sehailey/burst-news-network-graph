@@ -1,4 +1,4 @@
-export { default as Graph } from './GraphPackage'
+export { default as Graph } from './Graph'
 export { default as Rect } from './Rect'
 export { default as Star } from './Star'
 export { default as TextComponent } from './Text'
