@@ -1,18 +1,11 @@
 import React from 'react'
 
-import {
-    Graph,
-    Rect,
-    StarContainer,
-    Star,
-    Text,
-    CollisionDetectionFG
-} from './components'
+import { Graph, CollisionDetectionFG, ReactVisDemo } from './components'
 
 const App = () => {
     return (
         <div>
-            <CollisionDetectionFG />
+            <Graph />
         </div>
     )
 }

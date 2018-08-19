@@ -1,4 +1,5 @@
 import React from 'react'
+import { ForceGraph2D } from 'react-force-graph'
 import links from './links.json'
 import nodes from './nodes.json'
 
@@ -18,7 +19,6 @@ const onNodeHover = (node, prevNode) => {
 const onNodeClick = node => {
     console.log('CLICK:', 'node:', node)
 }
-import { ForceGraph2D } from 'react-force-graph'
 
 const Graph = () => {
     return (
@@ -26,7 +26,6 @@ const Graph = () => {
             <ForceGraph2D
                 graphData={data}
                 nodeLabel="HAIII"
-                nodeAutoColorBy={node => getColor(+node.index)}
                 onNodeHover={onNodeHover}
                 onNodeClick={onNodeClick}
                 d3Force
