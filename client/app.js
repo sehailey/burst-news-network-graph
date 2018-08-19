@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Graph, CollisionDetectionFG, ReactVisDemo } from './components'
+import { Graph } from './components'
 
 const App = () => {
     return (

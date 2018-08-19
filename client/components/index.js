@@ -4,5 +4,5 @@
 // export { default as StarContainer } from './Star'
 
 export { default as Graph } from './Graph'
-export { default as CollisionDetectionFG } from './CollisionDetectionFG'
-export { default as ReactVisDemo } from './ReactVisDemo'
+//export { default as CollisionDetectionFG } from './CollisionDetectionFG'
+//export { default as ReactVisDemo } from './ReactVisDemo'
