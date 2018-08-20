@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { NewsGraph } from './components/NewsGraph'
+import NewsGraph from './components/NewsGraph'
 
 const App = () => {
     return (
