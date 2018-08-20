@@ -25,7 +25,7 @@ const NewsGraph = () => {
                 nodeLabel="newsGraph"
                 onNodeHover={onNodeHover}
                 onNodeClick={onNodeClick}
-                d3Force
+                d3ForceLink={links}
             />
         </div>
     )

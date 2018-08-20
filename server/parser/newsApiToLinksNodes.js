@@ -27,8 +27,9 @@ const createNode = node => {
             id: 'id' + nodeKey,
             name: node.name,
             color: colors[randInt(colors.length)],
+            val: randInt(4),
             title: node.title,
-            description: node.description,
+            desc: node.description,
             url: node.url,
             urlToImage: node.urlToImage,
             publishedAt: node.publishedAt
