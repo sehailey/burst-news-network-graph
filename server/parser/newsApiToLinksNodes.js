@@ -7,9 +7,16 @@ let nodeKey = 0
 const nodes = []
 
 const randInt = int => {
-    return Math.floor(Math.random(int))
+    return Math.floor(Math.random() * int)
 }
 let errorIdx = 0
+
+const sourceIds = ['id1', 'id2', 'id3', 'id4']
+
+const links = []
+const randomArticles = []
+
+const colors = ['#f44242', '#4d41f4', '#c3bfff', '#ffb7b7', '#d1d1d1']
 
 const createNode = node => {
     try {
@@ -17,7 +24,9 @@ const createNode = node => {
             nodeKey: nodeKey, //global
 
             sourceNewsApiId: node.source.id,
+            id: 'id' + nodeKey,
             name: node.name,
+            color: colors[randInt(colors.length)],
             title: node.title,
             description: node.description,
             url: node.url,
@@ -25,12 +34,15 @@ const createNode = node => {
             publishedAt: node.publishedAt
         }
         nodes.push(newNode)
+        // links.push({
+        //     source: sourceIds[randInt(sourceIds.length)],
+        //     target: newNode.id
+        //})
+        randomArticles.push('id' + nodeKey)
         nodeKey++
     } catch (e) {
         console.log('error occured!', errorIdx)
         errorIdx++
-    } finally {
-        console.log('node created!')
     }
 }
 
@@ -40,7 +52,6 @@ const createNodes = sourceArray => {
     })
 }
 
-const links = []
 const parseJson = json => {
     const values = Object.values(json)
     //console.log(values[0])
@@ -51,22 +62,31 @@ const parseJson = json => {
         createNodes(sourceArray)
     }
 }
-const linkSourceNames = Object.keys(articlesJson)
-
-linkSourceNames.map(linkSource => {
-    const target = linkSourceNames[randInt(linkSourceNames.length)]
-    console.log(target)
-    links.push({
-        source: target,
-        target: linkSource
-    })
-})
+//const linkSourceNames = Object.keys(articlesJson)
+//const links = []
 
 parseJson(articlesJson)
 
-fs.writeFileSync('./nodes.json', JSON.stringify(nodes))
-fs.writeFileSync('./links.json', JSON.stringify(links))
+randomArticles.map(id => {
+    console.log(id)
+    const source = sourceIds[randInt(sourceIds.length)]
+    const link = {
+        source: source,
+        target: id
+    }
+
+    console.log(link)
+    //const target = randomArticles[randInt(randomArticles.length)]
+
+    links.push(link)
+})
+
+//console.log(randomArticles)
+
+fs.writeFileSync('../../client/components/nodes0.json', JSON.stringify(nodes))
+fs.writeFileSync('../../client/components/links0.json', JSON.stringify(links))
 console.log(nodes.length)
+console.log(randomArticles)
 console.log('LINKS:', links)
 
 //console.log(linkSources)
