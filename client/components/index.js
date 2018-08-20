@@ -5,4 +5,4 @@
 //export { default as CollisionDetectionFG } from './CollisionDetectionFG'
 //export { default as ReactVisDemo } from './ReactVisExample'
 
-export { default as Graph } from './Graph'
+export { default as NewsGraph } from './NewsGraph'
