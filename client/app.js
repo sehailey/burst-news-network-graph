@@ -1,11 +1,11 @@
 import React from 'react'
 
-import { Graph } from './components'
+import { NewsGraph } from './components/NewsGraph'
 
 const App = () => {
     return (
         <div>
-            <Graph />
+            <NewsGraph />
         </div>
     )
 }

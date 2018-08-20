@@ -6,7 +6,11 @@ const articlesJson = require('./articles.json')
 let nodeKey = 0
 const nodes = []
 
+const randInt = int => {
+    return Math.floor(Math.random(int))
+}
 let errorIdx = 0
+
 const createNode = node => {
     try {
         const newNode = {
@@ -36,30 +40,37 @@ const createNodes = sourceArray => {
     })
 }
 
+const links = []
 const parseJson = json => {
     const values = Object.values(json)
     //console.log(values[0])
 
     for (let i = 0; i < values.length; i++) {
-        console.log('VALUES[i]\n\n\n', values[i], '\n\n\n')
+        //console.log('VALUES[i]\n\n\n', values[i], '\n\n\n')
         const sourceArray = values[i]
         createNodes(sourceArray)
     }
 }
-// const parseNewsApiJson = (articlesJson) {
-//     const values = Object.values(json)
-//     //console.log(values[0])
-//
-//     for (let i = 0; i < values.length; i++) {
-//         console.log('VALUES[i]\n\n\n', values[i], '\n\n\n')
-//         createNodes(values[i])
-//     }
-// }
+const linkSourceNames = Object.keys(articlesJson)
+
+linkSourceNames.map(linkSource => {
+    const target = linkSourceNames[randInt(linkSourceNames.length)]
+    console.log(target)
+    links.push({
+        source: target,
+        target: linkSource
+    })
+})
 
 parseJson(articlesJson)
 
 fs.writeFileSync('./nodes.json', JSON.stringify(nodes))
+fs.writeFileSync('./links.json', JSON.stringify(links))
 console.log(nodes.length)
+console.log('LINKS:', links)
+
+//console.log(linkSources)
+
 // const nodeStructure = {
 //     id: 'id1',
 //     key: 0,
